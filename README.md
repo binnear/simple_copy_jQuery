@@ -1,4 +1,3 @@
-# simple_copy_jQuery
 ## 基于jQuery的简易封装，实现如下功能：
 - 选择器
 - 静态each方法、map方法、trim方法
